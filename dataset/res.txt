@@ -1,0 +1,165 @@
+curriculum_rel_num: 1 || curriculum_instance_num: 1 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.805 	 Whole_acc: 0.803 
+ Task 2 	 Avg_acc: 0.587 	 Whole_acc: 0.455 
+ Task 3 	 Avg_acc: 0.541 	 Whole_acc: 0.466 
+ Task 4 	 Avg_acc: 0.542 	 Whole_acc: 0.434 
+ Task 5 	 Avg_acc: 0.579 	 Whole_acc: 0.456 
+ Task 6 	 Avg_acc: 0.496 	 Whole_acc: 0.363 
+ Task 7 	 Avg_acc: 0.448 	 Whole_acc: 0.343 
+ Task 8 	 Avg_acc: 0.406 	 Whole_acc: 0.326 
+ Task 9 	 Avg_acc: 0.299 	 Whole_acc: 0.228 
+curriculum_rel_num: 1 || curriculum_instance_num: 3 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.794 	 Whole_acc: 0.788 
+ Task 2 	 Avg_acc: 0.602 	 Whole_acc: 0.454 
+ Task 3 	 Avg_acc: 0.600 	 Whole_acc: 0.463 
+ Task 4 	 Avg_acc: 0.669 	 Whole_acc: 0.509 
+ Task 5 	 Avg_acc: 0.677 	 Whole_acc: 0.517 
+ Task 6 	 Avg_acc: 0.596 	 Whole_acc: 0.438 
+ Task 7 	 Avg_acc: 0.526 	 Whole_acc: 0.427 
+ Task 8 	 Avg_acc: 0.494 	 Whole_acc: 0.415 
+ Task 9 	 Avg_acc: 0.416 	 Whole_acc: 0.331 
+curriculum_rel_num: 1 || curriculum_instance_num: 5 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.793 	 Whole_acc: 0.785 
+ Task 2 	 Avg_acc: 0.591 	 Whole_acc: 0.446 
+ Task 3 	 Avg_acc: 0.605 	 Whole_acc: 0.496 
+ Task 4 	 Avg_acc: 0.652 	 Whole_acc: 0.505 
+ Task 5 	 Avg_acc: 0.670 	 Whole_acc: 0.508 
+ Task 6 	 Avg_acc: 0.584 	 Whole_acc: 0.447 
+ Task 7 	 Avg_acc: 0.535 	 Whole_acc: 0.452 
+ Task 8 	 Avg_acc: 0.502 	 Whole_acc: 0.436 
+ Task 9 	 Avg_acc: 0.438 	 Whole_acc: 0.368 
+curriculum_rel_num: 1 || curriculum_instance_num: 10 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.821 	 Whole_acc: 0.818 
+ Task 2 	 Avg_acc: 0.630 	 Whole_acc: 0.475 
+ Task 3 	 Avg_acc: 0.648 	 Whole_acc: 0.537 
+ Task 4 	 Avg_acc: 0.692 	 Whole_acc: 0.544 
+ Task 5 	 Avg_acc: 0.689 	 Whole_acc: 0.523 
+ Task 6 	 Avg_acc: 0.606 	 Whole_acc: 0.442 
+ Task 7 	 Avg_acc: 0.560 	 Whole_acc: 0.445 
+ Task 8 	 Avg_acc: 0.525 	 Whole_acc: 0.437 
+ Task 9 	 Avg_acc: 0.457 	 Whole_acc: 0.371 
+curriculum_rel_num: 1 || curriculum_instance_num: 20 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.810 	 Whole_acc: 0.805 
+ Task 2 	 Avg_acc: 0.615 	 Whole_acc: 0.465 
+ Task 3 	 Avg_acc: 0.643 	 Whole_acc: 0.526 
+ Task 4 	 Avg_acc: 0.684 	 Whole_acc: 0.548 
+ Task 5 	 Avg_acc: 0.662 	 Whole_acc: 0.530 
+ Task 6 	 Avg_acc: 0.586 	 Whole_acc: 0.462 
+ Task 7 	 Avg_acc: 0.520 	 Whole_acc: 0.465 
+ Task 8 	 Avg_acc: 0.498 	 Whole_acc: 0.454 
+ Task 9 	 Avg_acc: 0.481 	 Whole_acc: 0.407 
+curriculum_rel_num: 3 || curriculum_instance_num: 1 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.800 	 Whole_acc: 0.790 
+ Task 2 	 Avg_acc: 0.627 	 Whole_acc: 0.612 
+ Task 3 	 Avg_acc: 0.641 	 Whole_acc: 0.573 
+ Task 4 	 Avg_acc: 0.668 	 Whole_acc: 0.599 
+ Task 5 	 Avg_acc: 0.685 	 Whole_acc: 0.608 
+ Task 6 	 Avg_acc: 0.625 	 Whole_acc: 0.528 
+ Task 7 	 Avg_acc: 0.590 	 Whole_acc: 0.531 
+ Task 8 	 Avg_acc: 0.574 	 Whole_acc: 0.523 
+ Task 9 	 Avg_acc: 0.550 	 Whole_acc: 0.461 
+curriculum_rel_num: 3 || curriculum_instance_num: 3 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.875 	 Whole_acc: 0.863 
+ Task 2 	 Avg_acc: 0.714 	 Whole_acc: 0.638 
+ Task 3 	 Avg_acc: 0.732 	 Whole_acc: 0.651 
+ Task 4 	 Avg_acc: 0.766 	 Whole_acc: 0.665 
+ Task 5 	 Avg_acc: 0.761 	 Whole_acc: 0.680 
+ Task 6 	 Avg_acc: 0.701 	 Whole_acc: 0.610 
+ Task 7 	 Avg_acc: 0.663 	 Whole_acc: 0.600 
+ Task 8 	 Avg_acc: 0.627 	 Whole_acc: 0.585 
+ Task 9 	 Avg_acc: 0.587 	 Whole_acc: 0.506 
+curriculum_rel_num: 3 || curriculum_instance_num: 5 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.893 	 Whole_acc: 0.881 
+ Task 2 	 Avg_acc: 0.739 	 Whole_acc: 0.634 
+ Task 3 	 Avg_acc: 0.733 	 Whole_acc: 0.634 
+ Task 4 	 Avg_acc: 0.769 	 Whole_acc: 0.646 
+ Task 5 	 Avg_acc: 0.746 	 Whole_acc: 0.652 
+ Task 6 	 Avg_acc: 0.695 	 Whole_acc: 0.592 
+ Task 7 	 Avg_acc: 0.671 	 Whole_acc: 0.592 
+ Task 8 	 Avg_acc: 0.644 	 Whole_acc: 0.584 
+ Task 9 	 Avg_acc: 0.607 	 Whole_acc: 0.504 
+curriculum_rel_num: 3 || curriculum_instance_num: 10 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.888 	 Whole_acc: 0.881 
+ Task 2 	 Avg_acc: 0.729 	 Whole_acc: 0.651 
+ Task 3 	 Avg_acc: 0.734 	 Whole_acc: 0.651 
+ Task 4 	 Avg_acc: 0.758 	 Whole_acc: 0.642 
+ Task 5 	 Avg_acc: 0.741 	 Whole_acc: 0.678 
+ Task 6 	 Avg_acc: 0.681 	 Whole_acc: 0.598 
+ Task 7 	 Avg_acc: 0.665 	 Whole_acc: 0.605 
+ Task 8 	 Avg_acc: 0.645 	 Whole_acc: 0.595 
+ Task 9 	 Avg_acc: 0.629 	 Whole_acc: 0.540 
+curriculum_rel_num: 3 || curriculum_instance_num: 20 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.903 	 Whole_acc: 0.895 
+ Task 2 	 Avg_acc: 0.752 	 Whole_acc: 0.676 
+ Task 3 	 Avg_acc: 0.763 	 Whole_acc: 0.685 
+ Task 4 	 Avg_acc: 0.791 	 Whole_acc: 0.702 
+ Task 5 	 Avg_acc: 0.780 	 Whole_acc: 0.697 
+ Task 6 	 Avg_acc: 0.728 	 Whole_acc: 0.623 
+ Task 7 	 Avg_acc: 0.694 	 Whole_acc: 0.622 
+ Task 8 	 Avg_acc: 0.654 	 Whole_acc: 0.615 
+ Task 9 	 Avg_acc: 0.622 	 Whole_acc: 0.544 
+curriculum_rel_num: 5 || curriculum_instance_num: 1 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.878 	 Whole_acc: 0.880 
+ Task 2 	 Avg_acc: 0.726 	 Whole_acc: 0.618 
+ Task 3 	 Avg_acc: 0.688 	 Whole_acc: 0.643 
+ Task 4 	 Avg_acc: 0.718 	 Whole_acc: 0.652 
+ Task 5 	 Avg_acc: 0.720 	 Whole_acc: 0.631 
+ Task 6 	 Avg_acc: 0.677 	 Whole_acc: 0.568 
+ Task 7 	 Avg_acc: 0.633 	 Whole_acc: 0.553 
+ Task 8 	 Avg_acc: 0.604 	 Whole_acc: 0.542 
+ Task 9 	 Avg_acc: 0.567 	 Whole_acc: 0.470 
+curriculum_rel_num: 5 || curriculum_instance_num: 3 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.897 	 Whole_acc: 0.900 
+ Task 2 	 Avg_acc: 0.779 	 Whole_acc: 0.662 
+ Task 3 	 Avg_acc: 0.761 	 Whole_acc: 0.709 
+ Task 4 	 Avg_acc: 0.782 	 Whole_acc: 0.713 
+ Task 5 	 Avg_acc: 0.768 	 Whole_acc: 0.696 
+ Task 6 	 Avg_acc: 0.692 	 Whole_acc: 0.606 
+ Task 7 	 Avg_acc: 0.672 	 Whole_acc: 0.599 
+ Task 8 	 Avg_acc: 0.637 	 Whole_acc: 0.584 
+ Task 9 	 Avg_acc: 0.593 	 Whole_acc: 0.513 
+curriculum_rel_num: 5 || curriculum_instance_num: 5 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.890 	 Whole_acc: 0.892 
+ Task 2 	 Avg_acc: 0.766 	 Whole_acc: 0.654 
+ Task 3 	 Avg_acc: 0.766 	 Whole_acc: 0.723 
+ Task 4 	 Avg_acc: 0.788 	 Whole_acc: 0.725 
+ Task 5 	 Avg_acc: 0.767 	 Whole_acc: 0.698 
+ Task 6 	 Avg_acc: 0.711 	 Whole_acc: 0.611 
+ Task 7 	 Avg_acc: 0.675 	 Whole_acc: 0.609 
+ Task 8 	 Avg_acc: 0.633 	 Whole_acc: 0.595 
+ Task 9 	 Avg_acc: 0.609 	 Whole_acc: 0.533 
+curriculum_rel_num: 5 || curriculum_instance_num: 10 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.905 	 Whole_acc: 0.906 
+ Task 2 	 Avg_acc: 0.775 	 Whole_acc: 0.650 
+ Task 3 	 Avg_acc: 0.781 	 Whole_acc: 0.723 
+ Task 4 	 Avg_acc: 0.804 	 Whole_acc: 0.733 
+ Task 5 	 Avg_acc: 0.784 	 Whole_acc: 0.737 
+ Task 6 	 Avg_acc: 0.724 	 Whole_acc: 0.652 
+ Task 7 	 Avg_acc: 0.705 	 Whole_acc: 0.656 
+ Task 8 	 Avg_acc: 0.676 	 Whole_acc: 0.645 
+ Task 9 	 Avg_acc: 0.624 	 Whole_acc: 0.560 
+curriculum_rel_num: 5 || curriculum_instance_num: 20 
+ Task 0 	 Avg_acc: 0.913 	 Whole_acc: 0.913 
+ Task 1 	 Avg_acc: 0.911 	 Whole_acc: 0.913 
+ Task 2 	 Avg_acc: 0.787 	 Whole_acc: 0.673 
+ Task 3 	 Avg_acc: 0.780 	 Whole_acc: 0.732 
+ Task 4 	 Avg_acc: 0.778 	 Whole_acc: 0.713 
+ Task 5 	 Avg_acc: 0.774 	 Whole_acc: 0.705 
+ Task 6 	 Avg_acc: 0.715 	 Whole_acc: 0.629 
+ Task 7 	 Avg_acc: 0.686 	 Whole_acc: 0.628 
+ Task 8 	 Avg_acc: 0.647 	 Whole_acc: 0.610 
+ Task 9 	 Avg_acc: 0.604 	 Whole_acc: 0.544 
