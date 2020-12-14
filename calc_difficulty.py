@@ -66,9 +66,9 @@ if __name__ == '__main__':
                         help='use which dataset')
     parser.add_argument('--train_file', default='dataset/training_data_with_entity.txt',
                         help='train file')
-    parser.add_argument('--valid_file', default='dataset/val_data_with_entity.txt',
+    parser.add_argument('--valid_file', default='dataset/test_data_with_entity.txt',
                         help='valid file')
-    parser.add_argument('--test_file', default='dataset/val_data_with_entity.txt',
+    parser.add_argument('--test_file', default='dataset/test_data_with_entity.txt',
                         help='test file')
     parser.add_argument('--relation_file', default='dataset/relation_name.txt',
                         help='relation name file')

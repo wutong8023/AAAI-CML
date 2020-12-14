@@ -588,9 +588,9 @@ if __name__ == '__main__':
                         help='number of tasks')
     parser.add_argument('--train_file', default='dataset/tacred/train.txt',
                         help='train file')
-    parser.add_argument('--valid_file', default='dataset/tacred/val_with_entity.txt',
+    parser.add_argument('--valid_file', default='dataset/tacred/val.txt',
                         help='valid file')
-    parser.add_argument('--test_file', default='dataset/tacred/test_with_entity.txt',
+    parser.add_argument('--test_file', default='dataset/tacred/test.txt',
                         help='test file')
     parser.add_argument('--relation_file', default='dataset/tacred/relation_name.txt',
                         help='relation name file')

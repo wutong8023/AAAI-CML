@@ -27,7 +27,7 @@ lifelong_fewrel_train_file = './dataset/training_data.txt'
 lifelong_fewrel_valid_file = './dataset/val_data.txt'
 
 lifelong_fewrel_train_file_with_entity = './dataset/training_data_with_entity.txt'
-lifelong_fewrel_valid_file_with_entity = './dataset/val_data_with_entity.txt'
+lifelong_fewrel_valid_file_with_entity = './dataset/test_data_with_entity.txt'
 
 lifelong_fewrel_train_data = []
 lifelong_fewrel_valid_data = []
