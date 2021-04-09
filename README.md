@@ -1,5 +1,5 @@
 # Curriculum-Meta Learning for Order-robust Continual Relation Extraction
-This repo is an implemetation of the paper [**Curriculum-Meta Learning for Continual Relation Extraction**](https://arxiv.org/abs/2101.01926)
+This repo is an implemetation of the paper [**Curriculum-Meta Learning for Order-robust Continual Relation Extraction**](https://arxiv.org/abs/2101.01926)
 ## Pretrain files
 Because the size of pretrained embedding file is too large to upload, you can download and extract **glove.6B.300d.txt** file from the [Link](http://nlp.stanford.edu/data/glove.6B.zip).
 
